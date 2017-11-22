@@ -1,6 +1,7 @@
 ## Engine Simulation Toolkit Custom Device ##
 
-**Engine Simulation Toolkit Custom Device** is a insert description of IP
+**Engine Simulation Toolkit Custom Device** for NI VeriStand provides a powerful, open-source, configuration-based experience for validating engine control units (ECUs). In NI VeriStand, simply load a LabVIEW FPGA bitfile that includes Engine Simulation Toolkit IP and configure the measurement and generation options. Combine with your own engine physics model to create a complete ECU hardware-in-the-loop system.
+The FPGA IP library includes examples so novices and experts can transform their NI FPGA hardware into sophisticated ECU testing tools.
 
 ### LabVIEW Version ###
 
